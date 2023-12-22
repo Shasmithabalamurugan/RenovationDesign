@@ -1,0 +1,30 @@
+.word1{
+    color: black;
+    font-style: italic;
+}
+.one{
+    margin-right: 50px;
+   
+}
+.two{
+    margin-right: 50px;
+}
+.three{
+    margin-right: 50px;
+}
+.four{
+    margin-right: 50px;
+}
+.container{
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
+    size: 17px;
+}
+.container{
+    display: flex;
+}
+.container h2{
+    size: 4px;
+}
